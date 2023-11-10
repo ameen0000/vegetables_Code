@@ -1,0 +1,21 @@
+.parentcontainer {
+  background-image: url("https://files.123freevectors.com/wp-content/original/110703-dark-blue-blurred-background-vector.jpg");
+  background-size: cover;
+  height: 100vh;
+  overflow: hidden;
+}
+.fond {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: rgba(70, 80, 86, 0.615);
+}
+.login {
+  color: rgba(58, 141, 223, 0.801);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.transprentbg {
+  background-color: rgba(7, 18, 27, 0.173);
+  border-radius: 15%;
+  padding: 10px;
+  box-shadow: 50px 35px 20px #17080821;
+}
